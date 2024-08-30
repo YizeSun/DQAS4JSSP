@@ -3,7 +3,7 @@ This is the repository for the paper [Differentiable Quantum Architecture Search
 
 Authors: Yize Sun1, Jiarui Liu, Yunpu Ma, Volker Tresp
 
-We implement the differentiable quantum architecture search [1] for job shop scheduling problem showing the potential for industrial application. We redefine the operation pool and extend DQAS to a framework JSSP-DQAS by evaluating circuits to generate circuits for JSSP automatically. The experiments conclude that JSSP-DQAS can automatically find noise-resilient circuit architectures that perform much better than manually designed circuits. It helps to improve the efficiency of solving JSSP.
+We implement the differentiable quantum architecture search [1] for job shop scheduling problem showing the potential of quantum computing for industrial application. We redefine the operation pool and extend DQAS to a framework JSSP-DQAS by evaluating circuits to generate circuits for JSSP automatically. The experiments conclude that JSSP-DQAS can automatically find noise-resilient circuit architectures that perform much better than manually designed circuits. It helps to improve the efficiency of solving JSSP.
 
 Please use the following BibTex for citation:
 ```
